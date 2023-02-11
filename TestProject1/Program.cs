@@ -9,3 +9,4 @@ Console.WriteLine("Circle: " + figure.GetArea());
 Console.WriteLine("Rect1: " + rectangle1.GetArea());
 Console.WriteLine("Rect2: " + rectangle2.GetArea());
 Console.WriteLine("Triangle: " + triangle.GetArea());
+Console.WriteLine("rect1: " + rectangle1.GetArea());
